@@ -1,0 +1,43 @@
+# omar.ai
+$the_cow = <<EOC;
+         $thoughts
+          $thoughts
+                            XXX
+                       XXX$XXXXXXXXXXXXX$
+                      X$XXXXXXXXX$X$XXXXXX
+                   XXXXXXXXX$ XXXXXXX$X$XXXXX
+                  XXX$XX$X$XXXXXXX$XXX$XXXXXXX$
+                 $XXXXXXXXXXXXX$XXX XXXXXXXXXXXX
+                 XXXX$XX$              XX  $XXXX
+                 XXX                        XXXX$
+                XXX      $                   $XXX
+                XX$X X$            XXXXXXX$   XXX
+                XXXX   XXXXXXX    XXXX$ XXXXX  XXX
+                $XXX XXXXX$XXXXX  XXXXXXXXX$X  XX$X
+                 XX  X$X$XXXXXXX  $ X$XXX$ XXX  XXX
+                 XX XXXXXX$XX$X$  XX  X     XXX  XX
+                 XX X        XX      XXX      X$$XX
+                 XXX$X     XXXXX  XXX $XX      XXXX
+                  XXXX    X$ XXXXXXXXXX$XX     X XX
+                  XXX    $XXXXXX$XX$XX$XXXX  XXXXXX
+                  XXX$   XXX$XX$XX$XXXXXXXX XXX XXX
+                   XXX $ XX$XXX  XX$XX$ XX$ XXXXXX
+                   XXXXX $X  X$XXX $X   XXXX$XXXX$
+                    XXX$XXXX  $XXXXXX$ XXX$XXXXXX
+                     XXXXXXXX  XXXX    X$XX$XXXX
+                     XXXXX$XXX$X$XXXX$XXX XXXXXX
+                       XXXX$XX$X$$$XXXXX$XXX$  XXXX
+                       XXXXXXXXXXXXXXXXXX$$   XXX$XXXXX
+                     X$XXX X$X$XXXXXX$X$      XX$ XX$X$XXXXXXX
+                $$XX$XX XXX     XX         $XX$   XX$XXX$X XXXXXXXXXX$
+     XXXXXXXXXXXXXXX XX  XXXX$ XXX       $XX$    XXX$ X$XX  $XXX $X$X$
+ XXXXXXXX$ $XX$XXX   X$XX X$XXX$XX$  XXXXX    XXX$       X$   XX   XXX
+X$ $X    X  X$X    $X XXXXXX$XXXXXX$X$X$X   XXXXX         X  XX$  XX X
+XX XX         XX XXXX XXXX$X  $ $$XXXX$    X$X    X$      $  XXX X$$X
+$X $X               X$ $$ XXX$ XXXXXXXXXX$X$XX   XX          XX XX$X$
+XX  X               XXX XX XXXX$           XX   XX$  $     X XXXX XX
+ X  X$   X           XX  XX  XXXXX        XX$   XX   X    $X XX$ X$ XX
+ XX XX  X X$         XX         X$XX      XX    XX        XX XXXXX XX
+X$X $X     X         XX           XX     XXX     X$       X  XX X$X$
+XXX  X   X XX        $X XX        XX     XX      XX      XX  XXXX$X
+EOC
